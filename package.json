@@ -1,0 +1,23 @@
+{
+  "name": "wk07-TDD",
+  "version": "1.0.0",
+  "description": "Implement practice exercise to learn TDD using Jest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BabarBaig/wk07-TDD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BabarBaig/wk07-TDD/issues"
+  },
+  "homepage": "https://github.com/BabarBaig/wk07-TDD#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
