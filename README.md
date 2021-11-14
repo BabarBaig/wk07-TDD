@@ -9,3 +9,7 @@ Run following commands to create a package.json file and install JEST as a Depen
 
     npm init -y
     npm i -D jest
+
+Rest code by running command:
+
+    npm test
